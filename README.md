@@ -38,7 +38,7 @@ Make sure you have Python 3.8+ installed along with pip.
 
 2. Clone the Repository
 Bash
-git clone https://github.com/YOUR_USERNAME/SignBridge.git
+git clone https://github.com/Br0sk1-exe/SignBridge-AI
 cd SignBridge
 3. Install Dependencies
 Install the required Python packages using pip:
